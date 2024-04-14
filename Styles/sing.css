@@ -1,0 +1,11 @@
+.nav-container a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  black;
+    width: 100px;
+    height: 50px;
+    background-color: lightslategray;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}

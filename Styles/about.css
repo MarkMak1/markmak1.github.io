@@ -1,0 +1,17 @@
+.clasika{
+    display: flex;
+    flex-direction: column;
+
+
+}
+.clasika a{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    color: darkcyan;
+    background-color: darkblue;
+    height: 50px;
+    width: 100px;
+    margin-bottom: 19px;
+    border-radius: 28px;
+}

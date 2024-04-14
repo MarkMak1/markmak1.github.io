@@ -1,0 +1,22 @@
+.nav-container a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  black;
+    width: 100px;
+    height: 50px;
+    background-color: lightslategray;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+.log a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  black;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(122, 4, 4);
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
